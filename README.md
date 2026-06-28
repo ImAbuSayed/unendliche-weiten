@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unendliche-weiten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unendliche Weiten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendliche-weiten/) |
+| **Get License** | [License this song: Unendliche Weiten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendliche-weiten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Skyline leuchtet nur für dich heut Nacht, babe
+> Gib mir deine Hand, weil der Bass mein Herzschlag jagt, babe
+> Wir fahr'n im Coupé durch die Stadt, kein Limit, no limit
+> Alles dreht sich, wenn du lachst, ich bin tief drinne, in it
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
