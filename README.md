@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unendliche-weiten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Unendliche Weiten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendliche-weiten/) |
+| **Get License** | [Request Licensing for Unendliche Weiten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendliche-weiten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `784e2a82da7bb34851667f225ed0c518320df0b02cc604e8a08eb37281ecc6d9` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
